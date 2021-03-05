@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">Easy Learning</string>
+    <string name="title_text_view" translatable="false">Let`s learn the words!</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="teacher_mode">Teacher mode</string>
+    <string name="learning_mode">Learning mode</string>
+    <string name="languages">Languages</string>
+    <string name="add_lang">Add language</string>
+    <string name="language">Language</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="subjects">Subjects</string>
+    <string name="add_subject">Add subject</string>
+    <string name="subject">Subject</string>
+    <string name="cards_count">Cards count</string>
+    <string name="subjects_count">Subjects count</string>
+    <string name="empty_lang_input_toast">The language field cannot be empty!</string>
+    <string name="empty_subject_input_toast">The subject field cannot be empty!</string>
+    <string name="cards">Cards</string>
+    <string name="add_card">Add card</string>
+    <string name="empty_card_name_input_toast">The card name field cannot be empty!</string>
+    <string name="empty_card_transcription_input_toast">The card transcription field cannot be empty!</string>
+    <string name="empty_card_image_input_toast">The picture for the card is not set!</string>
+    <string name="word">Word</string>
+    <string name="transcription">Transcription</string>
+    <string name="card_image">Card image</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="lang_has_already_been_added">The language has already been added</string>
+    <string name="subject_has_already_been_added">The subject has already been added</string>
+    <string name="word_has_already_been_added">The word has already been added</string>
+    <string name="mode">Select mode</string>
+    <string name="learning">Learning mode</string>
+    <string name="word_mode">Word mode</string>
+    <string name="image_mode">Image mode</string>
+    <string name="remembered">Remembered</string>
+    <string name="to_repeat">To repeat</string>
+    <string name="great">Great!</string>
+    <string name="learned_words">Learned words</string>
+    <string name="repetitions_count">Repetitions count</string>
+    <string name="warning">Warning</string>
+    <string name="test_get_back_message">Are you sure you want to get back? The test will be completed!</string>
+    <string name="test_completed">Test completed</string>
+    <string name="number_of_cards">Number of cards</string>
+    <string name="correct_answers">Correct answers</string>
+</resources>
